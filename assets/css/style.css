@@ -13,3 +13,7 @@ body{
   width: 100vw;
   height: 50vw;
 }
+
+footer .container{
+  width: 60%;
+}
