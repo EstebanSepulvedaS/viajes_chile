@@ -14,6 +14,21 @@ body{
   height: 50vw;
 }
 
-footer .container{
+.final{
   width: 60%;
+}
+.contactos {
+  color: #ffffff;
+  text-decoration: none;
+}
+.only-mobile{
+  display: none;
+
+}
+
+@media (min-width:1000px) {
+  .only-mobile{
+    display: block;
+  }
+
 }
